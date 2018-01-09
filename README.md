@@ -294,6 +294,13 @@
 </ul>
 
 
+<br>
+<img src="https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?w=200&auto=compress&cs=tinysrgb" alt="log">
+<h4 id='log'>Log Management and Log Analysis Services</h4>
+<ul>
+<li><a href="https://logz.io/">Logz.io</a></li>
+</ul>  
+
 
 
 
