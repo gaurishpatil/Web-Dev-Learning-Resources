@@ -299,6 +299,7 @@
 <h4 id='log'>Log Management and Log Analysis Services</h4>
 <ul>
 <li><a href="https://logz.io/" target="_blank">Logz.io</a></li>
+<li><a href="https://www.splunk.com/en_us/products/pricing.html" target="_blank">Splunk</a></li>
 </ul>  
 
 
