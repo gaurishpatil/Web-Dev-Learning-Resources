@@ -194,6 +194,7 @@
 <li><a href="https://medium.muz.li/">Muzli</a></li>
 <li><a href="https://codepen.io">Codepen</a></li>
 <li><a href="http://briefbox.me">Briefbox</a></li>
+<li><a href="https://www.pexels.com/" target="_blank">Free Photo for Website - PEXELS</a></li>
 </ul>
 
 <br>
